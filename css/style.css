@@ -15,3 +15,9 @@ img{
     width: 100px;
     border-radius: 50%;
 }
+ul{
+ list-style: square;
+}
+h1{
+    color: blueviolet;
+}
